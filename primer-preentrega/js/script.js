@@ -14,4 +14,10 @@ if (entrada == "") {
 
 // https://www.w3schools.com/js/js_typeof.asp
 
-pusimos github con cami
+// pusimos github con cami
+
+
+// addEventListener
+
+// addEventListener
+hola
